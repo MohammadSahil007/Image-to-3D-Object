@@ -5,7 +5,7 @@
 
 ###Output 1
 <p align="center">
-  <img src="Output/1.jpeg" alt="Output 1" width="650" height="340"/>
+  <img src="Output/1.jpeg" alt="Output 1" width="650" height="360"/>
 </p>  
 
 ### Output 1 - Image 1 (Imported Output in Blender)  
@@ -20,23 +20,25 @@
 
 ### Output 2
 <p align="center">
-  <img src="Output/5.jpg" alt="Output 2" width="650" height="340"/>
+  <img src="Output/5.jpg" alt="Output 2" width="650" height="360"/>
 </p>
 
+---
 
-🔹 **Demo Videos:**
+## Demo Videos:**
 
-###Output 1 - Video
+### Output 1 - Video
 [📥 Download Demo Video of Output 1 :  Output_Vid.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid.mp4)
 
 
-###Output 2 - Video(Imported in Blender)
+### Output 2 - Video(Imported in Blender)
 [📥 Download Demo Video of Output 2 :  Output_Vid1.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid1.mp4)
 
-###Model Demo Output Video
+### Model Demo Output - Video
 
 [📥 Download Demo Video of Output 3 :  Output_Vid2.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid2.mp4)
 
+---
 ## 📌 Overview
 
 This project utilizes Python, OpenCV, and PyTorch3D to convert 2D images into 3D models with enhanced accuracy. It applies background removal techniques to improve the final model output.
