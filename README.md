@@ -3,24 +3,24 @@
 **Convert 2D images into interactive 3D models using deep learning and computer vision.**
 ## 🎥 Demo & Screenshots
 
-###Output 1
+### Output 1
 <p align="center">
-  <img src="Output/1.jpeg" alt="Output 1" width="650" height="360"/>
+  <img src="Output/1.jpeg" alt="Output 1" width="620" height="360"/>
 </p>  
 
 ### Output 1 - Image 1 (Imported Output in Blender)  
 <p align="center">
-  <img src="Output/2.jpeg" alt="Output 1 - Image 1 (Imported Output in Blender)" width="650" height="340"/>
+  <img src="Output/2.jpeg" alt="Output 1 - Image 1 (Imported Output in Blender)" width="630" height="340"/>
 </p>  
 ### Output 1 - Image 2 (Imported Output in Blender)  
 <p align="center">
-  <img src="Output/3.jpeg" alt="Output 1 - Image 2(Imported Output in Blender)" width="650" height="340"/>
+  <img src="Output/3.jpeg" alt="Output 1 - Image 2(Imported Output in Blender)" width="630" height="340"/>
 </p>  
 
 
 ### Output 2
 <p align="center">
-  <img src="Output/5.jpg" alt="Output 2" width="650" height="360"/>
+  <img src="Output/5.jpg" alt="Output 2" width="620" height="360"/>
 </p>
 
 ---
