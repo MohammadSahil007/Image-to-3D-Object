@@ -5,7 +5,7 @@ Here's a well-structured **README file** for your **Image to 3D Model Converter*
 # **🖼️ Image to 3D Model Converter**  
 **Convert 2D images into interactive 3D models using deep learning and computer vision.**  
 
-![Demo Screenshot](demo-screenshot.png) *(Replace with an actual screenshot of your project)*  
+![Demo Screenshot](myImages/Sahil.jpg) *(Replace with an actual screenshot of your project)*  
 
 ## **📌 Overview**  
 This project utilizes **Python, OpenCV, and PyTorch3D** to convert **2D images into 3D models** with enhanced accuracy. It applies **background removal techniques** to improve the final model output.  
@@ -29,7 +29,7 @@ This project utilizes **Python, OpenCV, and PyTorch3D** to convert **2D images i
 ## **🛠️ Installation & Usage**  
 ### **1️⃣ Clone the repository**  
 ```bash
-git clone https://github.com/YourUsername/Image-to-3D-Model.git
+git clone https://github.com/MohammadSahil007/Image-to-3D-Model.git
 cd Image-to-3D-Model
 ```
 ### **2️⃣ Install dependencies**  
