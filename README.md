@@ -5,7 +5,7 @@
 
 ### Output 1
 <p align="center">
-  <img src="Output/1.jpeg" alt="Output 1" width="620" height="360"/>
+  <img src="Output/1.jpeg" alt="Output 1" width="600" height="370"/>
 </p>  
 
 ### Output 1 - Image 1 (Imported Output in Blender)  
@@ -25,7 +25,7 @@
 
 ---
 
-## Demo Videos:**
+## Demo Videos:
 
 ### Output 1 - Video
 [📥 Download Demo Video of Output 1 :  Output_Vid.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid.mp4)
