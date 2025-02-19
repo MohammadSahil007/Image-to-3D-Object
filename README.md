@@ -2,17 +2,30 @@
 
 **Convert 2D images into interactive 3D models using deep learning and computer vision.**
 ## 🎥 Demo & Screenshots
-🔹 **Demo Screenshot:**
+🔹 **Output 1**
 
-![Demo Output 1](Output/1.jpeg) 
+![Demo Output 1](Output/1.jpeg)
+🔹 **Output 1 - Image 1 (Imported Output in Blender)**
 ![Demo Output-1 when its imported in Blender](Output/2.jpeg)
+🔹 **Output 1 - Image 2 (Imported Output in Blender)**
+
 ![Demo Output-2 when its imported in Blender](Output/3.jpeg)
+
+🔹 **Output 2 **
+
 ![Demo Output 2](Output/5.jpeg)
 
 🔹 **Demo Videos:**
-[📥 Download Demo Video of Output 1 :  Output_Vid.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/blob/main/Output/Output_Vid.mp4)
-[📥 Download Demo Video of Output 2 :  Output_Vid1.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/blob/main/Output/Output_Vid1.mp4)
-[📥 Download Demo Video of Output 3 :  Output_Vid2.mp4](https://github.
+
+🔹 **Output 1 - Video**
+[📥 Download Demo Video of Output 1 :  Output_Vid.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid.mp4)
+
+🔹 **Output 2 - Video(Imported in Blender) **
+[📥 Download Demo Video of Output 2 :  Output_Vid1.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid1.mp4)
+
+🔹 **Model Demo Output Video **
+
+[📥 Download Demo Video of Output 3 :  Output_Vid2.mp4](https://github.com/MohammadSahil007/Image-to-3D-Object/raw/main/Output/Output_Vid2.mp4)
 
 ## 📌 Overview
 
