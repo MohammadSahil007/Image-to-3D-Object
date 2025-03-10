@@ -12,6 +12,7 @@
 <p align="center">
   <img src="Output/2.jpeg" alt="Output 1 - Image 1 (Imported Output in Blender)" width="630" height="340"/>
 </p>  
+
 ### Output 1 - Image 2 (Imported Output in Blender)  
 <p align="center">
   <img src="Output/3.jpeg" alt="Output 1 - Image 2(Imported Output in Blender)" width="630" height="340"/>
